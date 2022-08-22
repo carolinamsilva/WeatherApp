@@ -1,0 +1,73 @@
+.form-container {
+  display: block;
+  text-align: right;
+  margin-right: 50px;
+  margin-top: 20px;
+  color: #007ca1;
+}
+.dia {
+  border-radius: 10px;
+  background-color: #48d1cc;
+  margin: 50px;
+  padding: 30px;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: #fff;
+  margin-top: 40px;
+}
+.today {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  color: #007ca1;
+  font-size: small;
+}
+h1 {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #007ca1;
+}
+.temperatures {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #fff;
+  font-size: small;
+}
+.sun {
+  text-align: center;
+  display: block;
+  margin-bottom: 40px;
+}
+
+.col {
+  text-align: center;
+}
+.week {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: small;
+  color: #fff;
+}
+.forecast {
+  width: 50px;
+}
+.grades {
+  font-family: "Open Sans", sans-serif;
+  font-size: small;
+  color: #007ca1;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #007ca1;
+  color: #fff;
+}
